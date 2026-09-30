@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #ACF2EB;
+}
+header{
+    width: 80%;
+    background-color: aliceblue;
+    margin: 0 auto;
+    text-align: center;
+}
+header .menu{
+    background-color: #24B0BF;
+    padding: 10px;
+}
+header .menu{
+    color: black;
+    margin-right: 12px;
+    text-decoration: none;
+}
